@@ -20,6 +20,7 @@ namespace Prueba_Proyecto
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hola mundo");
+            MessageBox.Show("Este es nuestro primer repositorio");
         }
     }
 }
